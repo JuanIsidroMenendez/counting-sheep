@@ -1,0 +1,18 @@
+{
+  "name": "counting-sheep",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Juan",
+  "type": "module",
+  "main": "counting-sheep.js",
+  "directories": {
+    "test": "vitest"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.7"
+  }
+}
