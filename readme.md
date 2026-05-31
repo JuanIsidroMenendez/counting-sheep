@@ -25,5 +25,10 @@ Estos criterios son los utilizados para el desarrollo de la función y los evalu
 5. Contar los lobos.
 6. Evaluar las condiciones en orden.
 
+# Test con Vitest
+
+<img width="585" height="310" alt="Sheep test" src="https://github.com/user-attachments/assets/7b9534cb-be9c-4ad6-9ebd-d1543a54bbbf" />
+
+
 
 
