@@ -1,4 +1,4 @@
-# Reversing Words - JavaScript
+# Counting Sheep - JavaScript
 
 Ejercicio de JavaScript, cuyo objeto es crear una función que reciba un array y emita un mensaje dependiendo de la cantidad de ovejas (true) y lobos (false) que haya. Se utilizan condicionales y métodos de array, así como testeo con Vitest.
 
